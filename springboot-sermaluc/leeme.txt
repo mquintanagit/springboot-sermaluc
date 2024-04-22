@@ -1,1 +1,17 @@
-Hola
+INICIALMENTE
+- Trabajado con Java 17 y Springboot.
+- Se utilizó Postman para realizar consultas.
+- Se utilizó de base de datos Mysql.
+
+IMPORTACIÓN DE EXCEL.
+- El excel inicial se guardó en formato cvs con tal de respetar las tablas.
+- Se importó directamente a MYSQL para poder trabajar con ello.
+
+Una vez se da inicio a la ejecución de la APP SPRING, podrá;
+1. Revisar tabla Variable.
+2. Revisar tabla Formula.
+3. Realizar calculo de formula.
+4. Visualizar nuevamente el contenido de Formula con su resultados.
+
+OBSERVACIONES.
+- La operación de la formula no fue exitosa, puesto que, al reemplazar los componentes con las variables éstas no respetaban la sintaxis, mezclandose con los valores. Por lo cual, los resultados son 0.
